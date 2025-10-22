@@ -1,6 +1,4 @@
-# <Your App Name> - AGRARIAN Project
-
-[![CI - Build and Push Docker Image](https://github.com/agrarian-project/<your-app-name>/actions/workflows/ci.yml/badge.svg)](https://github.com/agrarian-project/<your-app-name>/actions/workflows/ci.yml)
+## Your App Name - AGRARIAN Project
 
 Short description of the application (1-2 sentences). Explain its purpose within the context of smart agriculture and the AGRARIAN project.
 
